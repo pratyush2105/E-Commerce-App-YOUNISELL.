@@ -16,6 +16,9 @@ This is a full stack web application for ordering clothes, footwear and lifestyl
 
 ## Demo Video: 
 
+https://user-images.githubusercontent.com/118333030/226135431-6de2adde-a293-4c3c-965e-b027d91909c1.mp4
+
+
 
 
 This website has been developed as a 2nd year project.
